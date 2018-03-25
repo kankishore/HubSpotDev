@@ -4,9 +4,9 @@ public class Customer {
 
 	
 	
-	public int addCustomer(String[] ArrayList){
+	public boolean addCustomer(String[] ArrayList){
 		
-		int cId=0;
+		boolean cId=false;
 		
 		//validate values from UI
 		
