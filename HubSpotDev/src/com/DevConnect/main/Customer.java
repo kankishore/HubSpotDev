@@ -4,15 +4,15 @@ public class Customer {
 
 	
 	
-	public boolean addCustomer(String[] ArrayList){
+	public int addCustomer(String[] ArrayList){
 		
-		boolean cId=false;
+		int cId=0;
 		
 		//validate values from UI
 		
 		//Insert in the DB
 		return cId;
-		//Comment
+		
 		
 		
 	}
