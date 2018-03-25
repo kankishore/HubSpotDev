@@ -18,5 +18,15 @@ public class Customer {
 	}
 	
 	
+public boolean deleteCustomer(int cId){
+		boolean rc=false;
+		
+		//Delete the Customer from DB
+		return rc;
+		
+		
+		
+	}
+	
 	
 }
